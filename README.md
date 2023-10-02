@@ -8,7 +8,8 @@ This app leveraged the PostgreSQL ralational database and built up the Todo List
 
 ### Initial Setup:
 1. install the PostGreSQL. Please follow the tutorial (https://commandprompt.com/education/how-to-install-postgresql-on-macos/) that just download the package and follow the guide line.
-2. start the PostGreSQL on mac.
+2. start the PostGreSQL on mac. (I'm using the MacOS Monterey with M1 chip)
 ```
 brew services start postgresql
 ```
+3. Install the dependency lib. I'm using the anaconda environment. (make sure you've already have conda installed https://docs.anaconda.com/free/anaconda/install/mac-os/)
