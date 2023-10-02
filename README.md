@@ -9,10 +9,11 @@ This app leveraged the PostgreSQL ralational database and built up the Todo List
 ### Initial Setup:
 1. install the PostGreSQL. Please follow the tutorial (https://commandprompt.com/education/how-to-install-postgresql-on-macos/) that just download the package and follow the guide line.
 2. start the PostGreSQL on mac. (I'm using the MacOS Monterey with M1 chip)
+3. open your terminal:
 ```
 brew services start postgresql
 ```
-3. Install the dependency lib. I'm using the anaconda environment. (make sure you've already have conda installed https://docs.anaconda.com/free/anaconda/install/mac-os/)
+4. Install the dependency lib. I'm using the anaconda environment. (make sure you've already have conda installed https://docs.anaconda.com/free/anaconda/install/mac-os/)
 
 ```
 ## create a new environment for todoapp
@@ -27,8 +28,14 @@ conda install -c conda-forge flask-sqlalchemy
 ##install Flask-Migrate
 conda install -c conda-forge flask-migrate
 ```
-4. Adding the anaconda PATH to your $PATH, we utilize the anaconda environment as first priority.
+5. Adding the anaconda PATH to your $PATH, we utilize the anaconda environment as first priority.
 ```
 export PATH=~/anaconda3/bin:$PATH
 source ~/.zshrc
+```
+6. Go to your app.py folder and Run the web application:
+```
+cd /<your>/<app>/<folder>/   
+export FLASK_APP=app.py  ## where app.py is the name of our application
+FLASK_APP=app.py FLASK_DEBUG=true flask run
 ```
