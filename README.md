@@ -19,3 +19,13 @@ brew services start postgresql
 conda create --name todoappEnv
 conda activate todoappEnv
 ```
+```
+##install FLASK
+conda install -c conda-forge flask
+##install FLASK-SQLAlchemy
+conda install -c conda-forge flask-sqlalchemy
+##install Flask-Migrate
+conda install -c conda-forge flask-migrate
+```
+
+
