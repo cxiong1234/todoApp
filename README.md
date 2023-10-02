@@ -39,8 +39,8 @@ brew services start postgresql
 conda create --name todoappEnv
 conda activate todoappEnv
 ```
-```
 <span style="color:red"> *some emphasized markdown text*</span>
+```
 ##install FLASK
 conda install -c conda-forge flask
 ##install FLASK-SQLAlchemy
