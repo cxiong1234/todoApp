@@ -6,6 +6,12 @@ This app leveraged the PostgreSQL ralational database and built up the Todo List
 ![Screen_Recording_2023-10-02_at_10 52 26_AM_V1](https://github.com/cxiong1234/todoApp/assets/62785993/5f75e511-d2a0-47b5-b8fc-49ad3714af35)
 
 
+### Introduction:
+This application leveraged the Model View Controller(MVC) architecture for managing the web application. See the picture below for detailed relationships of the three layers:
+<img width="613" alt="Picture1" src="https://github.com/cxiong1234/todoApp/assets/62785993/5197f054-f3e2-46dd-9c14-9928e46383b3">
+
+
+
 ### Initial Setup:
 1. install the PostGreSQL. Please follow the tutorial (https://commandprompt.com/education/how-to-install-postgresql-on-macos/) that just download the package and follow the guide line.
 2. start the PostGreSQL on mac. (I'm using the MacOS Monterey with M1 chip)
