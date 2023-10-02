@@ -8,7 +8,7 @@ This app leveraged the PostgreSQL ralational database and built up the Todo List
 
 ### Introduction:
 This application leveraged the Model View Controller(MVC) architecture for managing the web application. See the picture below for detailed relationships of the three layers:
-<img width="613" alt="Picture1" src="https://github.com/cxiong1234/todoApp/assets/62785993/5197f054-f3e2-46dd-9c14-9928e46383b3">
+![alt text](https://github.com/cxiong1234/todoApp/assets/62785993/5197f054-f3e2-46dd-9c14-9928e46383b3)
 
 
 
