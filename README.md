@@ -27,5 +27,8 @@ conda install -c conda-forge flask-sqlalchemy
 ##install Flask-Migrate
 conda install -c conda-forge flask-migrate
 ```
-
-
+4. Adding the anaconda PATH to your $PATH, we utilize the anaconda environment as first priority.
+```
+export PATH=~/anaconda3/bin:$PATH
+source ~/.zshrc
+```
