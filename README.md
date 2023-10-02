@@ -13,3 +13,9 @@ This app leveraged the PostgreSQL ralational database and built up the Todo List
 brew services start postgresql
 ```
 3. Install the dependency lib. I'm using the anaconda environment. (make sure you've already have conda installed https://docs.anaconda.com/free/anaconda/install/mac-os/)
+
+```
+## create a new environment for todoapp
+conda create --name todoappEnv
+conda activate todoappEnv
+```
