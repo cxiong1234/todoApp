@@ -12,10 +12,3 @@ This app leveraged the PostgreSQL ralational database and built up the Todo List
 ```
 brew services start postgresql
 ```
-
-
-````
-```
-Look! You can see my backticks.
-```
-````
