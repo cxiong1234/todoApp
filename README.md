@@ -26,13 +26,13 @@ The App also implemented the CRUD (CREATE, READ, UPDATE, DELETE) operations of t
 
 
 ### Initial Setup:
-1. install the PostGreSQL. Please follow the tutorial (https://commandprompt.com/education/how-to-install-postgresql-on-macos/) that just download the package and follow the guide line.
+1. install the PostGreSQL. Please follow [this tutorial](https://commandprompt.com/education/how-to-install-postgresql-on-macos/) that just download the package and follow the guide line.
 2. start the PostGreSQL on mac. (I'm using the MacOS Monterey with M1 chip)
 3. open your terminal:
 ```
 brew services start postgresql
 ```
-4. Install the dependency lib. I'm using the anaconda environment. (make sure you've already have conda installed https://docs.anaconda.com/free/anaconda/install/mac-os/)
+4. Install the dependency lib. I'm using the anaconda environment. (make sure you've already have conda installed via the [Anaconda official website](https://docs.anaconda.com/free/anaconda/install/mac-os/))
 
 ```
 ## create a new environment for todoapp
