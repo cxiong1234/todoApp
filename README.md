@@ -16,10 +16,13 @@ Serve as the router, also sontrol how commands are sent to other two layers also
 This layer hanle how do we represent the web page. This the basically our front end written by (HTML, CSS, JS).
 
 
+
 <br\>
 <br\>
 ![alt text](https://github.com/cxiong1234/todoApp/assets/62785993/5197f054-f3e2-46dd-9c14-9928e46383b3)
 
+<br\>
+The App also implemented the CRUD (CREATE, READ, UPDATE, DELETE) operations of the database and can be used to handle and map the relationships between different tables by the [SQL Joins](https://www.w3schools.com/sql/sql_join.asp).
 
 
 ### Initial Setup:
