@@ -4,3 +4,10 @@ This app leveraged the PostgreSQL ralational database and built up the Todo List
 
 ### Please see the demo of our App:
 ![Screen_Recording_2023-10-02_at_10 52 26_AM_V1](https://github.com/cxiong1234/todoApp/assets/62785993/5f75e511-d2a0-47b5-b8fc-49ad3714af35)
+
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
