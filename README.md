@@ -17,8 +17,7 @@ This layer hanle how do we represent the web page. This the basically our front 
 
 
 
-<br\>
-<br\>
+
 ![alt text](https://github.com/cxiong1234/todoApp/assets/62785993/5197f054-f3e2-46dd-9c14-9928e46383b3)
 
 <br\>
