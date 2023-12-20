@@ -42,6 +42,8 @@ conda activate todoappEnv
 ```
 ##install FLASK
 conda install -c conda-forge flask
+##install psycopg2
+conda install -c conda-forge psycopg2
 ##install FLASK-SQLAlchemy
 conda install -c conda-forge flask-sqlalchemy
 ##install Flask-Migrate
